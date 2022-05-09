@@ -1,4 +1,6 @@
 # dio-git-hub
-Desafio de projeto do Bootcamp da Dio sobre git :)
+Repositório criado para registrar os aprendizados do Bootcamp 'TQI Fullstack Developer' da DIO.
 
-Data: 09/05
+:)
+
+maio/2022
